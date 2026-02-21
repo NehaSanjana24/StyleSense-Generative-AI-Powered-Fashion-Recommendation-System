@@ -1,0 +1,59 @@
+{
+  "app_name": "StyleSense",
+  "version": "1.0.0",
+  "description": "AI-Powered Fashion Recommendation System",
+  "author": "Your Name",
+  "body_types": [
+    {
+      "name": "Pear",
+      "description": "Wider hips and thighs, smaller bust",
+      "tips": "Balance with darker colors on bottom, lighter on top"
+    },
+    {
+      "name": "Apple",
+      "description": "Fuller around middle, narrower hips",
+      "tips": "Emphasize waist definition, A-line skirts work well"
+    },
+    {
+      "name": "Hourglass",
+      "description": "Balanced bust and hips with defined waist",
+      "tips": "Highlight your curves with fitted clothing"
+    },
+    {
+      "name": "Rectangle",
+      "description": "Straight lines, minimal curves",
+      "tips": "Create definition with belts and structured pieces"
+    },
+    {
+      "name": "Inverted Triangle",
+      "description": "Broader shoulders, narrower hips",
+      "tips": "Balance with darker shoulders, brighter bottoms"
+    }
+  ],
+  "style_preferences": [
+    "Casual",
+    "Formal",
+    "Bohemian",
+    "Minimalist",
+    "Streetwear",
+    "Vintage",
+    "Preppy"
+  ],
+  "color_palettes": [
+    "Black",
+    "White",
+    "Navy",
+    "Earth Tones",
+    "Pastels",
+    "Bright Colors",
+    "Neutrals"
+  ],
+  "occasions": [
+    "Casual Daily Wear",
+    "Office/Work",
+    "Date Night",
+    "Party",
+    "Weekend",
+    "Gym/Active"
+  ]
+}
